@@ -1,4 +1,4 @@
-export const ssr = false;
+
 //because i intend to use tauri
 import { onMount } from "svelte";
 import { gsap } from "gsap";
